@@ -1,1 +1,1 @@
-# ams-solutions
+# softest-solutions-AMS
